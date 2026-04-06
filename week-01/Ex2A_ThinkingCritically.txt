@@ -1,0 +1,87 @@
+1. Before doing any other investigation, list two or three questions that this infographic
+and explanation of methodology raise in your mind.
+
+	a. What was the reasoning behind choosing breakup foods for the dataset? 
+	b. Has the data changed since then between 2025 and 2026?
+
+2. Where can you find Google Trends search data? Provide the URL.
+
+	a. https://trends.google.com/trending?geo=US
+
+3. The article concluded that “milkshakes take the crown as the ultimate breakup food,
+topping the list in six states.” Pull up Google Trends data on Milkshake (beverage) and
+change the date range to February 1, 2024 through February 28, 2025.
+
+	a) What is the highest peak recorded in the line chart for “Interest over time”?
+
+		1. 97 is the highest dip recorded.
+
+	b) What is the lowest dip recorded?
+
+		1. 65 is the lowest dip recorded.
+
+4. At the top next to the box for “Milkshake,” there is a plus sign to add another search
+term. Click the plus sign to add a search for Hamburger (Food).
+
+	a) What is the highest peak recorded for searches using Hamburger? What is the
+lowest dip?
+		1. 100 is the highest peak record. 
+
+	b) What happened to the line for Milkshake? What do the high and low look like now?
+
+		1. For the milkshake line, the high looks like 33 and the low looks like 22.
+
+5. Why did the line for Milkshake change? Hint: Click on the icon next to “Interest
+over time” for more information about how trend results are displayed.
+
+	a. The line for Milkshake changed because rather than Milkshake being the singular data that we searched for, we had also inquired about the data of hamburgers compared to it. In essence, we were comparing data between the search interests of hamburgers and milkshakes over time. 
+
+6. Add a third term to your search, this time for Breakup (Topic).
+
+	a) Do you see any patterns that suggest a relationship between searches for Breakup
+and Hamburger?
+
+		1. In July of 2024, there was a similar dip in the data for both Hamburger and Breakup. 
+
+	b) How about between Breakup and Milkshake?
+
+		1. For Breakup and Milkshake, it seemed as if the data was beginning to intersect at some points with each other. 
+
+7. What does all of this suggest about the reliability of the conclusions reached in the
+article?
+
+	a. This suggests that while they do have a solid question for what breakup foods vary state by state or even region by region, the data shown in Google Trends when you look at all components is not as reliable because this data engine is only looking at the data as three separate datasets rather than as datasets that relate to each other. 
+
+8. At the upper right of Google Trends, click on the link for “Back to Classic Explore.”
+Notice that this view includes a section for “Compared breakdown by subregion.”
+
+	a) What was the top state by interest for Milkshake?
+
+		1. Alabama is the top state of interest for Milkshake.
+
+	b) What was the top state by interest for Hamburger?
+		1. South Dakota is the top state of interest for Hamburger. 
+
+9. Use the download icon to download a csv file with these search trend results. Save it
+to your DataAnalytics/week-01 folder as GTrends_milkshake_hamburger_2024.csv
+
+10. OPTIONAL: Spend a little more time exploring Google Trends results for other
+“breakup foods” listed in the article. Some more food for thought:
+
+	a) What are the differences you notice between searching for a
+term as a “search term” versus as a categorical term? What thoughts does this
+raise in your mind about working with Google Trends data?
+
+		1. The differences I noticed is that the data does intersect at certain points during certain time periods as compared to the data being searched for as a "food" or even a "topic". 
+
+	∗ For example, compare “Milkshake (beverage)” to “Milkshake (search term)”,
+then compare “Hamburger (Food)” to “Burger (search term)”
+
+	a) Try comparing “Hamburger (Food)” to some search terms oriented toward pop
+culture or current events. For instance, you might compare to “football” or
+“olympics.” What do you notice? What do you think other patterns in search
+behavior might represent?
+
+		1. What I noticed when comparing Hamburger (food) to Bob's Burgers (topic), the data remained the same for Hamburger while Bob's Burgers was lower when used as a search term instead. As for Milkshake (beverage) and Milkshake (search term), Milkshake (beverage) remained the same and Milkshake (search term) was lower than that in terms of data as well. 
+
+
