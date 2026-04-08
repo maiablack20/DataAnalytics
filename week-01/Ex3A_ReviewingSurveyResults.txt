@@ -1,0 +1,58 @@
+1. What conclusion can you reach about the responses to this question?
+
+	Q1. My conclusion regarding the responses to the first question is that most responses are similar in nature because they are all describing some type of mental and physical preparation for class, whether that is reviewing notes, ensuring your laptop is plugged and/or charged, or having their documents app or notebook open and ready. 
+
+	Q2. For this question, the majority of the responses are a little mixed because most of the survey takes had answered "yes", but they have a second laptop or a second monitor, and other responses are "no" to that answer, and one of the no's is made with the promise of purchasing one soon.
+
+	Q3. Like question number two in the survey, this question has a majority of "yes" responses and a few "no" responses. I've concluded that while most have these items, there are a few who do not have these materials. However, there is one answer out of all, which is an outlier in my opinion, that has a keyboard, but not a mouse and they do plan to obtain one as soon as they are able to. 
+
+	Q4. My conclusion for this question is that there is a majority in those that plan to take notes using a pen and paper, a minority in those that plan to use their iPad for note taking, a minority in those that plan to use both, and it is not specified on whether or not this person plans to use either their computer, a document on their computer, pen and paper, or even a secondary electronic device; and finally, there is a secondary majority with those that plan to use a document on their computer as well to take notes as well. 
+
+	Q5. And finally for question five, my conclusion regarding this question is that not only is this more of a "feedback/remarks" type of question, the responses for this question are a little more free in terms of the responses because this is urging the survey taker to at least share their thoughts freely, which seemed to work for the majority. However, there is a minority that did not answer the question with the possibility of them not having any questions to ask at the moment due to how early on they are within the course. As for those that did respond to the question, there was a mix of questions being answered and very few are similar, but it seems that most are being asked to receive a more clarifying answer. 
+
+2. Is the default summary or visualization helpful? How could it be improved?
+
+	Q1. The default summary for this question is a little bit helpful because it does show a couple of the responses to the answer. However, when you click it does not show you the full responses to the question like the Excel version would. 
+
+	Q2. The visualization is helpful in showing where we have a majority and minority within the responses, but it also does not show what the full range of responses for this question would be. 
+
+	Q3. This visual is helpful because it shows the majority and minority of responses as well. It gives better insight on how much of the class has the equipment needed, how many do not, and then the amount of other responses as well. 
+
+	Q4. This visualization is helpful for this question for the same reasons as the previous because it gives you insight on how the students are planning to take notes within the class. 
+
+	Q5. This visualization is helpful because it shows how many responses were received, but only few are able to be seen for this. Unlike the excel file, this just gives you a small portion of what the responses are like - a sample if you will - but it does not show the full scope. 
+
+3. For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+
+	a. For question 1 and question 5, you can find the actual full responses to the questions in the excel file as opposed to the statistics side of the google form. 
+
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+
+	Q1. For this question, you could find a trend within it because the answers were similar to each other, even though they were worded differently. The trend for this question is that each response shows that the preparation for five minutes before class is similar in some way, shape, or form. 
+
+	Q5. However, for this question it's a little bit harder to find a trend within this question because the answers to it vary from person to person, which isn't necessarily a bad thing since this question was more of something that warranted a response in the form of a "thoughts/feedback/remarks" type of question. 
+
+5. Now that you can see the responses, how might you recommend rephrasing this or question or the response options in a future survey?
+
+	Q2. For this question, since this is the one that caught my eye the most within this dataset, I would keep the phrasing the same and then have a section for a written response that pops up after, asking if the person that is taking the survey plans to obtain a second monitor in the near future if possible. 
+
+
+6. Is there anything that surprised you about the survey responses?
+
+	Q4. For this question, I was a little surprised by the amount of people that choose to write on a pen and paper, even though we have computers, personal laptops, and even loaner laptops that have been provided to take notes on, but I do know that the note taking method depends on the person. 
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to include in your morning routine, or any questions that you are also curious about? 
+
+	Q1. For this one, I might implement mental preparation before class. I know that I am pretty clear headed and prepared for class, but it would also help to at least have my mind in the head space to learn as well. 
+
+	Q5. Since I did not have questions myself, I would at least try to be more confident in asking questions regarding the material rather than second guessing myself and downing myself when I need to ask questions. 
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help in how you approach teaching this class?
+
+	a. As an instructor, I would take at least fifteen to twenty minutes to review over the materials we covered while also giving a small quiz to kind of get the minds of my students working, then jump straight into the material, once we have covered a good chunk of it, open the floor for questions or any further clarification that is needed, and then continue teaching. Although, this might seem time consuming, I do feel that a moment where you quiz the students at the start to get them started on thinking as a data analyst can go a long way. 
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to
+make this survey anonymous? Why or why not? (If you can see both pros and cons,
+you may include both.)
+
+	a. I feel that it was helpful to keep this survey anonymous because it gives the students a way of feeling more secure in the way they answer the question without feeling as if their classmates are judging them once the answers have been submitted. 
