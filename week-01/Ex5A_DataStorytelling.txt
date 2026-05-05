@@ -1,4 +1,5 @@
 2. Think about the following questions:
+
 	a) What information is being illustrated in each visualization?
 
 		1. For "Self-Description", the information being illustrated within this visual is a fraction of white ink and black ink within a pie chart, the amount of black ink by panel in a column chart, and the location of black ink within both the pie chart, the column chart, and an image of both the pie chart and column chart as well. 

@@ -1,0 +1,104 @@
+USE lana_dog_walking;
+
+-- ============================================================
+-- Table: Clients & Location
+-- Sample Data Insert Script
+-- ============================================================
+
+-- First, insert required Location records (ZipCodes referenced by Clients)
+INSERT INTO Location (ZipCode, City, State) VALUES
+('99501', 'Anchorage',     'Alaska'),
+('85001', 'Phoenix',       'Arizona'),
+('90001', 'Los Angeles',   'California'),
+('80201', 'Denver',        'Colorado'),
+('06101', 'Hartford',      'Connecticut'),
+('32099', 'Jacksonville',  'Florida'),
+('30301', 'Atlanta',       'Georgia'),
+('83701', 'Boise',         'Idaho'),
+('60601', 'Chicago',       'Illinois'),
+('46201', 'Indianapolis',  'Indiana'),
+('50301', 'Des Moines',    'Iowa');
+
+-- Insert Clients (ClientID 1 already exists, inserting 2-11)
+INSERT INTO Clients (ClientID, ClientName, PhoneNumber, Email, Street, ZipCode) VALUES
+(1,  'Judy Tobin',      '(608) 241-8230', 'theartistsjudy@realartists.com',  '8750 Bear Run Way',      '99501'),
+(2,  'Marcus Bell',     '(602) 374-9821', 'marcus.bell@mailhub.com',          '1234 Cactus Blvd',       '85001'),
+(3,  'Sandra Chu',      '(310) 482-7743', 'sandrachu@westcoastmail.com',      '567 Sunset Ave',         '90001'),
+(4,  'Derek Owens',     '(720) 319-6654', 'dowens@coloradolink.net',          '980 Mountain View Dr',   '80201'),
+(5,  'Patricia Hale',   '(860) 527-3341', 'phale@connectmail.com',            '45 Elm Street',          '06101'),
+(6,  'James Fontaine',  '(904) 683-2290', 'jfontaine@sunshinemail.com',       '3302 Palmetto Rd',       '32099'),
+(7,  'Angela Rivers',   '(404) 751-8832', 'arivers@peachstatemail.com',       '710 Peachtree Ln',       '30301'),
+(8,  'Colin Shaw',      '(208) 446-9173', 'cshaw@idahonet.com',               '2201 Clearwater Ct',     '83701'),
+(9,  'Felicia Grant',   '(312) 894-5567', 'fgrant@windycitymail.com',         '88 Lakeshore Dr',        '60601'),
+(10, 'Nathan Patel',    '(317) 562-4418', 'npatel@hoosierhub.com',            '4400 Crossroads Blvd',   '46201'),
+(11, 'Brenda Kowalski', '(515) 738-2295', 'bkowalski@hawkeyemail.com',        '1809 Cornfield Rd',      '50301');
+-- ============================================================
+-- Table: Dogs
+-- Sample Data Insert Script
+-- ============================================================
+
+INSERT INTO Dogs (DogID, DogTag, DogName, Breed, DateOfBirth, DogNotes, ClientID) VALUES
+(1,  'DOG-001', 'Picasso',  'Husky',                '2023-04-01', 'Likes to run off, stops walking if tired and flops to ground, and barely listens.',                                          1),
+(2,  'DOG-002', 'Bella',    'Golden Retriever',      '2021-06-15', 'Very friendly and loves everyone. Pulls on leash when she sees other dogs.',                                                  2),
+(3,  'DOG-003', 'Thor',     'German Shepherd',       '2020-11-03', 'Well trained and obedient. Protective of owner, may growl at strangers.',                                                     3),
+(4,  'DOG-004', 'Mochi',    'Shih Tzu',              '2022-02-18', 'Tends to overheat quickly on warm days. Needs frequent water breaks.',                                                        4),
+(5,  'DOG-005', 'Duke',     'Labrador Retriever',    '2019-08-22', 'Very food motivated. Will stop and sniff everything on the route. Friendly with kids.',                                       5),
+(6,  'DOG-006', 'Luna',     'Border Collie',         '2021-03-09', 'Extremely high energy. Needs a long route or she gets restless. Very intelligent.',                                           6),
+(7,  'DOG-007', 'Coco',     'French Bulldog',        '2022-07-30', 'Short walks only due to breathing issues. Cannot handle heat. Loves cuddles after walks.',                                    7),
+(8,  'DOG-008', 'Zeus',     'Rottweiler',            '2020-01-14', 'Requires experienced handler. Leash reactive with small dogs. Calm and obedient with firm commands.',                         8),
+(9,  'DOG-009', 'Daisy',    'Beagle',                '2023-05-05', 'Scent driven — will follow her nose anywhere. Keep on a short leash. Loves treats.',                                         9),
+(10, 'DOG-010', 'Biscuit',  'Corgi',                 '2021-09-17', 'Very vocal on walks. Barks at bicycles and skateboards. Otherwise gentle and easy to handle.',                               10),
+(11, 'DOG-011', 'Shadow',   'Australian Shepherd',   '2019-12-01', 'Highly intelligent and needs mental stimulation. Tends to herd small children. Responds well to commands.',                   11);
+-- ============================================================
+-- Table: Appointments
+-- Sample Data Insert Script
+-- ============================================================
+
+INSERT IGNORE INTO Appointments (AppointmentID, Date, Time, Duration, Status, ClientID) VALUES
+(1,  '2026-04-18', '12:30:00', 45, 'Completed',  1),
+(2,  '2026-04-19', '08:00:00', 30, 'Completed',  2),
+(3,  '2026-04-20', '09:15:00', 60, 'Completed',  3),
+(4,  '2026-04-21', '10:00:00', 45, 'Cancelled',  4),
+(5,  '2026-04-22', '11:30:00', 60, 'Completed',  5),
+(6,  '2026-04-23', '13:00:00', 30, 'Completed',  6),
+(7,  '2026-04-24', '14:15:00', 90, 'Scheduled',  7),
+(8,  '2026-04-25', '07:45:00', 45, 'Scheduled',  8),
+(9,  '2026-04-26', '15:00:00', 60, 'Scheduled',  9),
+(10, '2026-04-27', '08:30:00', 30, 'Cancelled',  10),
+(11, '2026-04-28', '10:45:00', 90, 'Scheduled',  11);
+-- ============================================================
+-- Table: Walk_Logs
+-- Sample Data Insert Script
+-- ============================================================
+
+INSERT IGNORE INTO Walk_Logs (LogID, Notes, WalkingRoute, Distance, ZipCode, AppointmentID, DogID) VALUES
+(1,  'This was a much more fun route for Picasso and he enjoyed the scenery as well.',          'Bridgewater Park',         2.00, '99501', 1,  1),
+(2,  'Bella pulled hard at the start but settled into a good pace after the first block.',      'Riverside Trail',          1.75, '85001', 2,  2),
+(3,  'Thor walked perfectly on leash. No incidents. Completed full route without stopping.',    'Hillcrest Loop',           3.00, '90001', 3,  3),
+(4,  'Mochi overheated slightly near the halfway point. Took a long water break in the shade.', 'Lakeside Stroll',          1.00, '80201', 4,  4),
+(5,  'Duke stopped to sniff every single bush on the route. Walk took longer than expected.',   'Elmwood Nature Path',      2.50, '06101', 5,  5),
+(6,  'Luna had tremendous energy today. Completed the route faster than any previous walk.',    'Greenfield Running Track', 4.00, '32099', 6,  6),
+(7,  'Coco did well but started panting heavily near the end. Kept walk short as precaution.',  'Shady Oak Lane',           0.75, '30301', 7,  7),
+(8,  'Zeus was calm and obedient throughout. Responded well to all commands on busy streets.',  'Downtown Heritage Walk',   2.25, '83701', 8,  8),
+(9,  'Daisy followed her nose the entire route. Had to redirect her away from the creek twice.','Meadow Brook Path',        1.50, '60601', 9,  9),
+(10, 'Biscuit barked at two bicycles but otherwise behaved well. Great walk overall.',          'Sunset Boulevard Loop',    2.00, '46201', 10, 10),
+(11, 'Shadow tried to herd a group of children at the park. Redirected quickly and continued.', 'Pinecrest Park Trail',     3.25, '50301', 11, 11);
+-- ============================================================
+-- Table: Payments
+-- Columns: PaymentID, PaymentDate, PaymentMethod, Price,
+--          PaymentConfirmation, Status, AppointmentID
+-- Sample Data Insert Script
+-- ============================================================
+
+INSERT IGNORE INTO Payments (PaymentID, PaymentDate, PaymentMethod, Price, PaymentConfirmation, Status, AppointmentID) VALUES
+(24, '2026-04-17', 'Debit Card',  70.00,  '2387688', 'Paid',    67),
+(25, '2026-04-18', 'Venmo',       45.00,  '2387689', 'Paid',    68),
+(26, '2026-04-19', 'Credit Card', 90.00,  '2387690', 'Paid',    69),
+(27, '2026-04-20', 'Cash',        60.00,  '2387691', 'Pending', 70),
+(28, '2026-04-21', 'Zelle',       80.00,  '2387692', 'Paid',    71),
+(29, '2026-04-22', 'PayPal',      55.00,  '2387693', 'Paid',    72),
+(30, '2026-04-23', 'Debit Card',  100.00, '2387694', 'Pending', 73),
+(31, '2026-04-24', 'Check',       75.00,  '2387695', 'Overdue', 74),
+(32, '2026-04-25', 'Credit Card', 95.00,  '2387696', 'Pending', 75),
+(33, '2026-04-26', 'Venmo',       50.00,  '2387697', 'Paid',    76),
+(34, '2026-04-27', 'Cash',        115.00, '2387698', 'Overdue', 77);

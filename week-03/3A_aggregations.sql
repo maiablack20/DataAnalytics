@@ -37,12 +37,15 @@ FROM employees;
 -- Maximum Employee Salary = 3119.15
 
 -- Question 6: Write a query to find the name and supplier ID of each supplier and the number of items they supply. Hint: Join is your friend here.
-SELECT p.ProductName, 
-		s.CompanyName
+SELECT s.CompanyName, p.supplierID, count(productID)
 FROM products p
 RIGHT JOIN Suppliers s
 ON p.SupplierID = s.SupplierID
-ORDER BY s.CompanyName;
+GROUP BY s.SupplierID;
+
+SELECT COUNT(ProductID)
+FROM products
+WHERE SupplierID = 2;
 
 -- Question 7: Write a query to find the list of all category names and the average price for items in each category. 
 SELECT c.CategoryName,
