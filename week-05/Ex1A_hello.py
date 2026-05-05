@@ -21,6 +21,4 @@ print(dollars + cents)
 
 d_str = '3 dollars'
 c_str = '50 cents'
-print(d_str + ' and ' + c_str)
-
-
+print(d_str + ' and ' + c_str) 
