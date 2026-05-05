@@ -60,3 +60,5 @@ print("Auto Policy Number:", AutoPolicyNumber)
 # if is used to make a conditional statement. If the condition is True, then some action is performed. 
 # None is an object that represent the absence of a value. It is like an empty object. It's the Python version of "null". 
 #^^del is a statement that is used to delete an object in Python. ^^
+
+# Excited to continue working with Python. 
