@@ -1,5 +1,6 @@
 # Maia Black
 # 2026-05-07
+#Lab 1
 
 # Define known values
 food_cost = 79.25
