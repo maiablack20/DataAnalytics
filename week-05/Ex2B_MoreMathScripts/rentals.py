@@ -29,3 +29,5 @@ print("Cost Per Passenger is: $",(round(cost_per_person,2)))
     # c.) Cost of the vans is $750.12
 
     # d.) The reason in which I have the leftover money is because of the decimal point for the cost per passenger being $19.74, which put us over the total rental cost. 
+
+# This became easier as I continued to write the scripts. 
