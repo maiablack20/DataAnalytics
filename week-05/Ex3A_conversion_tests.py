@@ -124,4 +124,4 @@ print(num4)
     # e.) Using the .strip() function to remove the leading/trailing spaces, within a print statement to display each result. 
         # 1.) Variable: "a"
 new_variable = a.strip()
-print(new_variable)
+print("This is the new variable: ",new_variable)
