@@ -14,5 +14,3 @@ tip_amount = (cost * tip)/100
 print(f"The tip on a ${cost} restaurant bill is: ${tip_amount:.2f}") 
 
 # The results of this script after using 20 for the tip percentage and then $50 for the meal cost, my tip amount came to be $10.00. 
-
-    # c.) The displayed output should be formatted as follows: The tip on a $[number] restaurant bill is $[number]
