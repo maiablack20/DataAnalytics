@@ -15,4 +15,8 @@ doubled_amount = (current_savings * 2)
 
 years_doubled = round(72/annual_interest_rate,2)
 
-print(f"Your current savings is: ${current_savings}. At a {annual_interest_rate}% interest rate, your savings account will be worth ${doubled_amount} in {years_doubled} years")
+print(f"Your current savings is: ${current_savings}. At a {format(annual_interest_rate/100, ".0%")} interest rate, your savings account will be worth ${format(doubled_amount, ".2f")} in {format(years_doubled, ".1f")} years")
+
+# d) Show your doubled balance with 2 digits to the right of the decimal point by using format(__, ".2f") and show years with 1 digit to the right of the decimal. How can you do this using format()?
+
+    # The result using this format is $1000000.00. 
