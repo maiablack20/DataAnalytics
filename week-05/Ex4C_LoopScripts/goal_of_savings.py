@@ -27,3 +27,5 @@ print("Goal met! My current balance is: $", starting_balance)
     # a) If your balance is more than halfway to your goal, print the message, “Almost there! This week my balance is up to ___.”
     
     # b) If your balance is at least 75% of your goal, add a calculation to buy yourself a little treat. Print the message, “So close! After treating myself, my balance is up to ___.”
+
+# I was a little tripped up on how to incorporate the cost of the treat in the loop, but then after figuring it out, it was the same method as I used when I was mainly focused on if statements within my other exercises. My issue regarding Python overall is that I tend to overcomplicate things to the point of where I am confusing myself. 
