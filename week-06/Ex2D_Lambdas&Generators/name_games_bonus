@@ -1,0 +1,30 @@
+# Maia Black 
+# 2026-05-17 
+# Bonus Exercise involving Name Game, and that is something we know from American Horror Story: Asylum. 
+
+your_name = input("Please enter your name: ")
+explicit_name = ["bart", "buck"]
+
+def trunc_name(your_name): 
+    if your_name[0].lower() in 'aeiou':
+        return your_name.lower()
+    elif your_name[1].lower() not in 'aeiou': 
+        return your_name[2:].lower()
+    else: 
+        return your_name[1:].lower()
+# print(trunc_name("Stan"))
+
+def name_game(your_name): 
+    yield(f"{your_name}, {your_name}, bo-b{trunc_name(your_name)}")
+    yield(f"bonana-fanna fo-f{trunc_name(your_name)}")
+    yield(f"Me my mo-m{trunc_name(your_name)}")
+    yield(f"{your_name}!")
+if your_name.lower() in explicit_name:
+    print("You are unable to proceed.")
+else: 
+    for n in name_game(your_name):
+        print(n)
+
+    # What I observed with the names is that the script ran without any errors when it came to the names I input, which were mine and the test names. However, what I did notice for a name like "Billy Bob" is that it seems a little awkward when singing it out loud, but the "Bob" part in Billy Bob was still tacked on the end each time the script generated the song. 
+
+    # For the challenge portion of the exercise, my script did stop the names for Buck and Bart. However, using just those two names limits the script in a sense from what I observed because it does not account for names similar to "Buck" and "Bart". I tested those two given names and then I tested the name "Tuck", which returned the same inappropriate results "Buck". In essence, the generator can produce amazing results, but only if your name isn't "Tuck", "Buck", or "Bart" or any other similar names. This generator is limited by the two provided test names and cannot predict the same for every single name in the world that is similar.  
