@@ -1,0 +1,16 @@
+# Maia Black
+# 2026-05-18
+
+import numpy as np
+
+# 1D Array:
+arr1 = np.array([1, 2, 3])
+print(arr1)
+
+# 2D Array: 
+arr2 = np.array([[1, 2, 3],
+                [1, 2, 3],
+                [1, 2, 3]])
+print(arr2)
+
+# 3D Array: 
