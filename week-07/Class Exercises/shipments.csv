@@ -1,0 +1,9 @@
+order_id,ship_date,carrier,status
+101,1/10/2024,DHL,Delivered
+102,1/12/2024,FedEx,Delivered
+103,1/13/2024,DHL,In Transit
+104,1/14/2024,UPS,Delivered
+105,1/15/2024,FedEx,Delayed
+106,1/16/2024,UPS,Delivered
+107,1/18/2024,DHL,In Transit
+111,1/19/2024,FedEx,Delivered

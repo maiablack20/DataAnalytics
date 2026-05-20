@@ -1,0 +1,7 @@
+# Maia Black
+# 2026-05-20 
+# Matplotlib Exercise from PyPlot Tutorial
+
+import matplotlib.pyplot as plt
+plt.plot([1, 2, 3], [4, 5, 6])
+plt.show()

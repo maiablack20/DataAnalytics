@@ -1,0 +1,11 @@
+order_id,customer,product,quantity,unit_price
+101,Chen,Laptop,2,899.99
+102,Patel,Tablet,5,499.5
+103,Müller,Monitor,1,349
+104,Okonkwo,Keyboard,10,79.99
+105,Santos,Headset,3,149.99
+106,Larsson,Webcam,4,89.99
+107,Kim,Mouse,8,29.99
+108,O'Brien,Docking Station,1,199
+109,Rossi,SSD,6,119.99
+110,Nakamura,USB Hub,2,39.99
