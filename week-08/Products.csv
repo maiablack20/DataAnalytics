@@ -1,0 +1,670 @@
+Prod Num,Product,CategoryID,SubcategoryID
+105248-IT,TCL NXTPAPER 10s,120,120-tab
+105249-IT,Dell Latitude 7320 Detachable,120,120-tab
+105250-IT,Realme Pad,120,120-tab
+105251-IT,Lenovo Tab P12 Pro,120,120-tab
+105252-IT,Microsoft Surface Pro 9,120,120-tab
+105253-IT,"Apple iPad Pro (12.9-inch, M2)",120,120-tab
+105254-IT,Chuwi HiPad Max,120,120-tab
+105255-IT,Lenovo Yoga Smart Tab,120,120-tab
+105256-IT,ASUS Vivobook 13 Slate OLED,120,120-tab
+105257-IT,Samsung Galaxy Tab S9 Ultra,120,120-tab
+105258-IT,Apple iPad Air (10.9-inch),120,120-tab
+105259-IT,Teclast T40 Pro,120,120-tab
+105260-IT,Acer Enduro Urban T1,120,120-tab
+105261-IT,Samsung Galaxy Tab A8,120,120-tab
+105262-IT,Apple iPad Mini,120,120-tab
+105263-IT,Casio fx-9750GII,120,120-cal
+105264-IT,Casio fx-CG50,120,120-cal
+105265-IT,Texas Instruments TI-89 Titanium,120,120-cal
+105266-IT,Texas Instruments TI-84 Plus CE,120,120-cal
+105267-IT,GitHub Pro,120,120-sof
+105268-IT,Sketch App License,120,120-sof
+105269-IT,Slack Premium,120,120-sof
+105270-IT,Notion Pro,120,120-sof
+105271-IT,Zoom Video Conferencing Pro License,120,120-sof
+105272-IT,Java Development Kit (JDK),120,120-sof
+105273-IT,Python Programming Language Installer,120,120-sof
+105274-IT,Visual Studio 2022,120,120-sof
+105275-IT,Intuit QuickBooks Student Edition,120,120-sof
+105276-IT,Final Draft 12,120,120-sof
+105277-IT,Zotero Citation Manager,120,120-sof
+105278-IT,Tableau Desktop,120,120-sof
+105279-IT,Evernote Premium,120,120-sof
+105280-IT,MATLAB Student Edition,120,120-sof
+105281-IT,AutoDesk AutoCAD,120,120-sof
+105282-IT,Microsoft Office 365,120,120-sof
+105283-IT,Adobe Creative Cloud Suite,120,120-sof
+105284-IT,Sharp EL-W516T,120,120-cal
+105285-IT,Bose SoundSport Free,120,120-hea
+105286-IT,Logitech G PRO X Wireless,120,120-hea
+105287-IT,SteelSeries Arctis 7+,120,120-hea
+105288-IT,HyperX Cloud II Wireless,120,120-hea
+105289-IT,Audio-Technica ATH-M50xBT2,120,120-hea
+105290-IT,Shure AONIC 50,120,120-hea
+105291-IT,Anker Soundcore Life Q30,120,120-hea
+105292-IT,Jabra Elite 85h,120,120-hea
+105293-IT,Skullcandy Crusher Evo,120,120-hea
+105294-IT,Samsung Galaxy Buds 2 Pro,120,120-hea
+105295-IT,JBL Live 660NC,120,120-hea
+105296-IT,Bose QuietComfort 45,120,120-hea
+105297-IT,Beats Studio Buds,120,120-hea
+105298-IT,Sony WH-1000XM5,120,120-hea
+105299-IT,Apple AirPods Pro 2nd Gen,120,120-hea
+105300-IT,AVerMedia Live Streamer CAM 513,120,120-ext
+105301-IT,Philips Hue Play HDMI Sync Box,120,120-ext
+105302-IT,Sony ECM-W2BT Wireless Microphone,120,120-ext
+105303-IT,RODE NT-USB Mini Microphone,120,120-ext
+105304-IT,Blue Yeti Nano USB Microphone,120,120-ext
+105305-IT,Logitech StreamCam,120,120-ext
+105306-IT,Elgato Stream Deck MK,120,120-ext
+105307-IT,Seagate Backup Plus Hub (8TB),120,120-ext
+105308-IT,WD My Passport HDD (4TB),120,120-ext
+105309-IT,Samsung T7 Touch Portable SSD (2TB),120,120-ext
+105310-IT,Anker PowerExpand USB-C Dock,120,120-ext
+105311-IT,Corsair K95 RGB Platinum Keyboard,120,120-ext
+105312-IT,Apple Magic Keyboard,120,120-ext
+105313-IT,Logitech MX Master 3S Mouse,120,120-ext
+105314-IT,Logitech K780 Multi-Device Keyboard,120,120-ext
+105315-IT,UGREEN Nexode 140W USB-C Charger,120,120-cha
+105316-IT,ASUS USB-C 65W Charger,120,120-cha
+105317-IT,Microsoft Surface 65W Power Supply,120,120-cha
+105318-IT,Aukey Omnia 65W Fast Charger,120,120-cha
+105319-IT,RAVPower 60W 6-Port USB Charger,120,120-cha
+105320-IT,Belkin BoostCharge 32W USB-C Wall Charger,120,120-cha
+105321-IT,Dell 130W USB-C Charger,120,120-cha
+105322-IT,Apple 67W USB-C Power Adapter,120,120-cha
+105323-IT,Apple MagSafe Charger,120,120-cha
+105324-IT,Lenovo IdeaPad Flex 5,120,120-lap
+105325-IT,"Apple MacBook Pro (M2, 14-inch)",120,120-lap
+105326-IT,"Apple MacBook Air (M2, 13-inch)",120,120-lap
+105327-IT,Lenovo ThinkPad X1 Carbon,120,120-lap
+105328-IT,HP Envy 15,120,120-lap
+105329-IT,Acer Aspire 5,120,120-lap
+105330-IT,LG Gram 17,120,120-lap
+105331-IT,Acer Chromebook Spin 713,120,120-lap
+105332-IT,HP Spectre x360,120,120-lap
+105333-IT,ASUS VivoBook S15,120,120-lap
+105334-IT,Samsung Galaxy Book Pro,120,120-lap
+105335-IT,Lenovo Yoga 7i,120,120-lap
+105336-IT,Dell XPS 13,120,120-lap
+105337-IT,HP Pavilion 14,120,120-lap
+105338-IT,Dell Inspiron 15,120,120-lap
+105339-IT,Razer Blade 14,120,120-lap
+105340-IT,Chromebook Pixelbook Go,120,120-lap
+105341-IT,MSI Creator Z16,120,120-lap
+105342-IT,Asus ZenBook 14,120,120-lap
+105343-IT,Microsoft Surface Laptop 5,120,120-lap
+105344-IT,Grammarly Premium,120,120-sof
+105345-IT,Razer Kraken X,120,120-hea
+105346-IT,R Studio Desktop,120,120-sof
+105347-IT,Google Pixel Tablet,120,120-tab
+105348-IT,HP 65W Slim Charger,120,120-cha
+105349-M,LTCA Year Up Gel Pen (Pack of 2),130,130-off
+105350-T,Corporate Finance,100,100-bus
+105351-M,LTCA Year Up Classic Cotton T-Shirt (White),130,130-clo
+105352-M,"LTCA Year Up Power Bank (10,000mAh)",130,130-tec
+105353-A,Newsprint Paper Pad (18x24 inches),115,115-ske
+105354-T,Business Law Today,100,100-bus
+105355-B,Of Mice and Men,125,125-fic
+105356-S,X-Acto Precision Knife with Blade Refills,110,110-art
+105357-T,Forensic Science,100,100-mis
+105358-A,Play-Doh Modeling Compound (Pack of 10),115,115-kid
+105359-B,Dune,125,125-fic
+105360-T,Fluid Mechanics,100,100-eng
+105361-M,LTCA Year Up Pullover Hoodie (Black),130,130-clo
+105362-B,1984,125,125-fic
+105363-M,LTCA Year Up Wall Calendar,130,130-off
+105364-S,"Pendaflex Hanging File Folders (Assorted Colors, Pack of 25)",110,110-bin
+105365-T,Fundamentals of Nursing,100,100-hea
+105366-T,Nutrition for Health and Fitness,100,100-hea
+105367-M,LTCA Year Up Performance Dri-Fit T-Shirt (Blue),130,130-clo
+105368-T,"Web Development: HTML, CSS, and JavaScript",100,100-tec
+105369-T,Research Methods in Social Sciences,100,100-mis
+105370-S,Pilot Precise V5 RT Rollerball Pens (Black),110,110-wri
+105371-T,Political Science: Theory and Practice,100,100-soc
+105372-S,Paper Cutter Trimmer (Letter Size),110,110-des
+105373-T,English as a Second Language,100,100-lan
+105374-B,The Hobbit,125,125-fic
+105375-S,Paper Mate Flair Felt Tip Pens (Assorted Colors),110,110-wri
+105376-M,LTCA Year Up Fleece Blanket (Gray),130,130-hom
+105377-A,Fine Mist Spray Bottle for Watercolors,115,115-mis
+105378-T,Music Theory Essentials,100,100-hum
+105379-A,Artist Blending Stumps (Pack of 6),115,115-mis
+105380-M,LTCA Year Up Beanie Hat (Gray),130,130-hat
+105381-M,LTCA Year Up Long-Sleeve Tee (Gray),130,130-clo
+105382-T,LSAT Logical Reasoning Practice,100,100-exa
+105383-M,LTCA Year Up Car Decal (Window Cling),130,130-mem
+105384-A,Silver Brush Limited Ruby Satin Brushes (Set of 6),115,115-pai
+105385-M,LTCA Year Up Foam Finger (Black),130,130-spo
+105386-M,LTCA Year Up Graduation Sash,130,130-mem
+105387-A,"Air-Dry Clay (10 lbs, White)",115,115-scu
+105388-B,AP Biology Prep,125,125-stu
+105389-S,Calculator Cover Case,110,110-mis
+105390-A,Clay Roller and Cutter Set,115,115-scu
+105391-T,Clinical Anatomy,100,100-hea
+105392-T,Computer Programming: A Practical Introduction,100,100-eng
+105393-B,Cracking the GMAT,125,125-stu
+105394-A,Crayola Crayons (Set of 64),115,115-dra
+105395-B,Deep Work,125,125-non
+105396-S,Erin Condren LifePlanner (Vertical Layout),110,110-pla
+105397-S,Five Star Flex Hybrid NoteBinder,110,110-bin
+105398-A,Gamblin 1980 Oil Color Set (8 Tubes),115,115-pai
+105399-A,Hand Lettering Practice Workbook,115,115-cal
+105400-B,IELTS Academic Study Guide,125,125-stu
+105401-B,Into the Wild,125,125-non
+105402-S,"Leuchtturm1917 A5 Notebook (Dotted, Navy Blue)",110,110-not
+105403-T,Linear Algebra Essentials,100,100-mat
+105404-M,LTCA Year Up Desk Organizer (Black),130,130-off
+105405-M,LTCA Year Up Embroidered Baseball Cap (Black),130,130-hat
+105406-M,LTCA Year Up Track Jacket (Navy Blue),130,130-clo
+105407-T,Macroeconomics: Concepts and Applications,100,100-bus
+105408-S,Prismacolor Premier Art Markers (Set of 12),110,110-art
+105409-A,Reeves Acrylic Paints (Set of 24),115,115-pai
+105410-B,Rich Dad Poor Dad,125,125-non
+105411-S,"Ruler (12-inch, Stainless Steel)",110,110-mis
+105412-S,Scotch Magic Tape (3-Pack with Dispenser),110,110-adh
+105413-A,Sharpie Fine Point Markers (Set of 24),115,115-dra
+105414-S,"Stabilo Boss Original Highlighters (Fluorescent, Pack of 6)",110,110-wri
+105415-A,Strathmore Sketch Pad (9x12 inches),115,115-ske
+105416-B,The Glass Castle,125,125-non
+105417-B,The Intelligent Investor,125,125-non
+105418-B,The Life-Changing Magic of Tidying Up,125,125-non
+105419-B,The Night Circus,125,125-fic
+105420-S,Wall-Mounted Dry Erase Board (18x24 inches),110,110-org
+105421-S,Uni-ball Vision Elite Rollerball Pens (Blue),110,110-wri
+105422-T,Abstract Algebra,100,100-mat
+105423-M,"LTCA Year Up Coasters (Set of 4, Cork)",130,130-hom
+105424-T,Organic Chemistry I,100,100-sci
+105425-M,LTCA Year Up Full-Zip Hoodie (Black),130,130-clo
+105426-M,"LTCA Year Up Coffee Mug (Ceramic, Black)",130,130-acc
+105427-S,"Avery Heavy-Duty 3-Ring Binder (2-inch, Black)",110,110-bin
+105428-M,LTCA Year Up Pullover Hoodie (Navy Blue),130,130-clo
+105429-T,MCAT Biology and Biochemistry,100,100-exa
+105430-A,Steel Ruler (12-inch),115,115-cut
+105431-M,LTCA Year Up Umbrella (Compact),130,130-acc
+105432-S,Tesa Masking Tape (2-inch Roll),110,110-adh
+105433-M,LTCA Year Up Knit Hat with Pom (Navy and White),130,130-hat
+105434-S,Pentel Twist-Erase Mechanical Pencils (0,110,110-pen
+105435-A,Plaster of Paris (5 lbs),115,115-scu
+105436-S,Rhodia DotPad No,110,110-not
+105437-T,Data Structures and Algorithms,100,100-eng
+105438-A,Black Drawing Paper Pad (8.5x11 inches),115,115-ske
+105439-M,LTCA Year Up Bluetooth Speaker (Portable),130,130-tec
+105440-M,LTCA Year Up Full-Zip Hoodie (Charcoal Gray),130,130-clo
+105441-S,"Bic Cristal Ballpoint Pens (Black, Pack of 10)",110,110-wri
+105442-A,"Fabriano Watercolor Paper (12-Sheet Block, Cold Pressed)",115,115-ske
+105443-M,LTCA Year Up Coffee Tumbler (Stainless Steel),130,130-acc
+105444-S,Crayola Colored Pencils (Pack of 24),110,110-art
+105445-T,Calculus I,100,100-mat
+105446-B,The Omnivores Dilemma,125,125-non
+105447-M,LTCA Year Up Bomber Jacket (Black),130,130-clo
+105448-M,LTCA Year Up Vinyl Stickers (Set of 5),130,130-mem
+105449-A,"Royal & Langnickel Zen Brush Set (Acrylic, Set of 8)",115,115-pai
+105450-T,Social Policy and Public Welfare,100,100-soc
+105451-S,Pentel EnerGel Deluxe Retractable Pens (Black),110,110-wri
+105452-M,LTCA Year Up Snow Globe,130,130-mem
+105453-T,Organizational Behavior,100,100-bus
+105454-M,LTCA Year Up USB Flash Drive (64GB),130,130-tec
+105455-S,"Legal Ruled Notepads (Yellow, Pack of 3)",110,110-not
+105456-T,Japanese for Travelers,100,100-lan
+105457-IT,Anker PowerPort III 65W Pod,120,120-cha
+105458-IT,Huawei MatePad Pro,120,120-tab
+105459-IT,HP Prime Graphing Calculator,120,120-cal
+105460-IT,CalDigit TS4 Thunderbolt 4 Dock,120,120-ext
+105461-IT,Microsoft Surface Headphones 2,120,120-hea
+105462-IT,Sennheiser HD 450BT,120,120-hea
+105463-IT,SPSS Statistics for Students,120,120-sof
+105464-M,LTCA Year Up Phone Stand (Adjustable),130,130-tec
+105465-A,Artify Professional Oil Paint Brush Set (15 Brushes),115,115-pai
+105466-S,Westcott Titanium Bonded Scissors (8-inch),110,110-des
+105467-S,"Sharpie Fine Point Permanent Markers (Assorted Colors, Pack of 12)",110,110-wri
+105468-S,"Smead Expanding File Folder (13-Pocket, Letter Size)",110,110-bin
+105469-M,LTCA Year Up Candle (Vanilla Scented),130,130-hom
+105470-S,Pilot G2 Retractable Gel Pens (Blue),110,110-wri
+105471-S,"Zebra Mildliner Highlighters (Pastel Colors, Pack of 15)",110,110-wri
+105472-S,Acrylic Desk Organizer Tray Set,110,110-des
+105473-M,LTCA Year Up Pennant Flag (Black and Gold),130,130-mem
+105474-A,ArtBin Essentials Box (Plastic Storage Container),115,115-mis
+105475-M,LTCA Year Up Insulated Thermos,130,130-spo
+105476-M,LTCA Year Up Earbuds (Wired),130,130-tec
+105477-S,"Staples Standard Staples (5,000 Pack)",110,110-des
+105478-B,"Girl, Wash Your Face",125,125-non
+105479-A,"Arches Watercolor Paper (Hot Pressed, 10x14 inches)",115,115-ske
+105480-M,LTCA Year Up Phone Case (iPhone 14),130,130-tec
+105481-T,SAT Math Essentials,100,100-exa
+105482-T,International Relations Today,100,100-soc
+105483-B,Harry Potter and the Prisoner of Azkaban,125,125-fic
+105484-A,Canson Comic Book Art Boards (11x17 inches),115,115-ske
+105485-T,Microeconomics: An Introduction,100,100-bus
+105486-S,"Graph Paper Pads (Letter Size, Pack of 4)",110,110-pap
+105487-S,Command Poster Strips,110,110-adh
+105488-T,American Literature: A Survey,100,100-hum
+105489-S,"Binder Clips (Assorted Sizes, Pack of 36)",110,110-org
+105490-B,Blink,125,125-non
+105491-T,Blockchain Technology,100,100-tec
+105492-S,Blue Sky Academic Planner (July 2024 - June 2025),110,110-pla
+105493-B,Encyclopedia Britannica Concise Edition,125,125-ref
+105494-T,Geometry: A Comprehensive Guide,100,100-mat
+105495-A,Kid-Safe Scissors (Set of 2),115,115-kid
+105496-M,LTCA Year Up Beanie Hat (Black),130,130-hat
+105497-M,LTCA Year Up Embroidered Baseball Cap (Gray),130,130-hat
+105498-M,LTCA Year Up Laptop Sleeve (13-inch),130,130-acc
+105499-M,"LTCA Year Up Picture Frame (Wooden, 8x10)",130,130-hom
+105500-S,"Moleskine Classic Hardcover Notebook (Ruled, Black)",110,110-not
+105501-A,Prismacolor Premier Colored Pencils (Set of 72),115,115-dra
+105502-B,Quiet: The Power of Introverts,125,125-non
+105503-S,Scotch Double-Sided Tape (Pack of 2),110,110-adh
+105504-A,Strathmore Toned Tan Sketch Paper Pad (9x12 inches),115,115-ske
+105505-B,The Pocket Style Manual,125,125-ref
+105506-B,To Kill a Mockingbird,125,125-fic
+105507-A,UHU Glue Stick (Pack of 3),115,110-adh
+105508-S,Winsor & Newton Watercolor Paint Set (12 Colors),110,110-art
+105509-A,Pilot Parallel Pen Calligraphy Set,115,115-cal
+105510-T,Circuits and Systems,100,100-eng
+105511-M,LTCA Year Up Throw Pillow (Navy and Gold Logo),130,130-hom
+105512-B,The Tipping Point,125,125-non
+105513-A,Winsor & Newton Watercolor Markers (Set of 6),115,115-dra
+105514-T,Introduction to Archaeology,100,100-soc
+105515-A,Wooden Oval Paint Palette,115,115-pal
+105516-M,LTCA Year Up Sticky Notes Set,130,130-off
+105517-S,Ticonderoga No,110,110-pen
+105518-M,LTCA Year Up Flat-Brim Hat (White),130,130-hat
+105519-A,"Field Sketch Easel (Aluminum, Portable)",115,115-eas
+105520-S,Canson XL Mixed Media Sketchbook (9x12 inches),110,110-art
+105521-M,LTCA Year Up Passport Holder (Leather),130,130-acc
+105522-A,Crayola Washable Watercolors (Set of 16),115,115-kid
+105523-M,LTCA Year Up Mouse Pad (Blue),130,130-off
+105524-M,LTCA Year Up Classic Cotton T-Shirt (Navy Blue),130,130-clo
+105525-T,Applied Linguistics,100,100-lan
+105526-S,"Avery Heavy-Duty 3-Ring Binder (1-inch, White)",110,110-bin
+105527-T,Leadership and Management Principles,100,100-mis
+105528-A,Crayola Washable Kids Paint Brushes (Set of 10),115,115-pai
+105529-M,LTCA Year Up Spiral Notebook (Blue),130,130-off
+105530-B,Where the Crawdads Sing,125,125-fic
+105531-A,Tombow Dual Brush Pens (Set of 20),115,115-dra
+105532-A,Winsor & Newton Oil Paint Set (10 Tubes),115,115-pai
+105533-M,LTCA Year Up Picnic Blanket,130,130-spo
+105534-T,Child Development,100,100-soc
+105535-A,Conte Crayons (Set of 12),115,115-dra
+105536-M,LTCA Year Up Cutting Board (Bamboo),130,130-hom
+105537-B,Meditations,125,125-non
+105538-IT,Kensington SD5700T Docking Station,120,120-ext
+105539-IT,Samsung 25W Super Fast Charger,120,120-cha
+105540-IT,Razer DeathAdder V2 Mouse,120,120-ext
+105541-IT,Microsoft Sculpt Ergonomic Keyboard,120,120-ext
+105542-A,Elmers Glue-All (16 oz),115,110-adh
+105543-S,"Push Pins (Clear, Pack of 200)",110,110-org
+105544-T,Introduction to Statistics,100,100-mat
+105545-T,Introduction to Topology,100,100-mat
+105546-T,Medical Terminology,100,100-hea
+105547-A,Plastic Palette Knives (Set of 5),115,115-mis
+105548-M,LTCA Year Up Magnet (Fridge),130,130-mem
+105549-S,BIC Xtra-Smooth Mechanical Pencils (0,110,110-pen
+105550-B,The Great Gatsby,125,125-fic
+105551-T,The Art of Writing,100,100-hum
+105552-S,"Washi Tape (Assorted Patterns, Set of 10 Rolls)",110,110-adh
+105553-T,American History Since 1865,100,100-hum
+105554-T,Sports Management,100,100-mis
+105555-M,LTCA Year Up Classic Cotton T-Shirt (Black),130,130-clo
+105556-A,Aleenes Tacky Glue (4 oz),115,110-adh
+105557-S,Bostitch Heavy-Duty Stapler (100 Sheet Capacity),110,110-des
+105558-M,LTCA Year Up Trophy Replica (Mini),130,130-mem
+105559-S,Artist Paintbrush Set (Pack of 10),110,110-art
+105560-M,LTCA Year Up Mechanical Pencil (Pack of 2),130,130-off
+105561-S,"Moleskine Classic Hardcover Notebook (Grid, Red)",110,110-not
+105562-B,Becoming,125,125-non
+105563-T,Creative Writing Workshop,100,100-hum
+105564-S,"Index Cards (3x5, White, Pack of 500)",110,110-pap
+105565-T,Introduction to Public Health,100,100-hea
+105566-A,Liquitex Basics Acrylic Paint Set (48 Tubes),115,115-pai
+105567-B,Little Women,125,125-fic
+105568-M,LTCA Year Up Certificate Frame,130,130-mem
+105569-M,LTCA Year Up Enamel Pin (Round Logo),130,130-mem
+105570-M,LTCA Year Up Gym Duffel Bag (Navy Blue),130,130-acc
+105571-M,LTCA Year Up Long-Sleeve Tee (Black),130,130-clo
+105572-B,Mans Search for Meaning,125,125-non
+105573-B,NCLEX-RN Exam Prep,125,125-stu
+105574-A,Princeton Velvetouch Mixed-Media Brushes (Set of 4),115,115-pai
+105575-T,Principles of Accounting,100,100-bus
+105576-S,Prismacolor Premier Colored Pencils (Set of 48),110,110-pen
+105577-T,Probability and Statistics,100,100-mat
+105578-S,"Sticky Notes (3x3, Yellow, Pack of 12)",110,110-pap
+105579-B,Test Prep Workbook for GED,125,125-stu
+105580-B,The Alchemist,125,125-fic
+105581-B,The Kite Runner,125,125-fic
+105582-B,The Norton Anthology of World Literature,125,125-ref
+105583-B,The Subtle Art of Not Giving a Fck*,125,125-non
+105584-B,The Testaments,125,125-fic
+105585-B,TOEFL Prep Book 2024,125,125-stu
+105586-A,Winsor & Newton Masking Fluid (75ml),115,115-mis
+105587-S,Staedtler Mars Lumograph Drawing Pencils (Set of 12),110,110-pen
+105588-S,Pilot G2 Retractable Gel Pens (Black),110,110-wri
+105589-M,LTCA Year Up Lanyard (Navy Blue),130,130-acc
+105590-T,Mathematical Modeling,100,100-mat
+105591-S,Swingline Standard Stapler (Black),110,110-des
+105592-M,LTCA Year Up Basketball (Regulation Size),130,130-spo
+105593-S,Protractor and Compass Set,110,110-mis
+105594-T,Human Resource Management,100,100-bus
+105595-S,"Hammermill Copy Plus Paper (Letter Size, 500 Sheets)",110,110-pap
+105596-S,"Astrobrights Colored Paper (Assorted Colors, Pack of 100)",110,110-pap
+105597-S,ID Badge Holders with Clips (Pack of 10),110,110-mis
+105598-T,Introduction to Psychology,100,100-soc
+105599-S,UHU Stic Glue Stick (Pack of 3),110,110-adh
+105600-S,Uni-ball Vision Elite Rollerball Pens (Black),110,110-wri
+105601-M,LTCA Year Up Noise-Canceling Headphones,130,130-tec
+105602-S,Fiskars Softgrip Craft Scissors (5-inch),110,110-des
+105603-T,Shakespeares Works,100,100-hum
+105604-T,Pharmacology: A Comprehensive Guide,100,100-hea
+105605-M,LTCA Year Up Gym Towel,130,130-spo
+105606-M,LTCA Year Up Frisbee (Flying Disc),130,130-spo
+105607-M,LTCA Year Up Poster (Motivational Quote),130,130-hom
+105608-A,Olfa Rotary Cutter (45mm),115,115-cut
+105609-S,"Oxford Twin-Pocket Folders (Assorted Colors, Pack of 10)",110,110-bin
+105610-A,Holbein Artist Gouache Set (24 Colors),115,115-pai
+105611-S,Crayola Crayons (Pack of 64),110,110-art
+105612-B,GRE Math Review,125,125-stu
+105613-T,Physics for Scientists and Engineers,100,100-sci
+105614-A,Bristol Smooth Paper Pad (9x12 inches),115,115-ske
+105615-B,Harry Potter and the Sorcerers Stone,125,125-fic
+105616-S,Acrylic Paint Set (Set of 12 Tubes),110,110-art
+105617-M,LTCA Year Up Quarter-Zip Sweatshirt (Black),130,130-clo
+105618-M,LTCA Year Up Wireless Charger (Black),130,130-tec
+105619-T,Entrepreneurship and Innovation,100,100-bus
+105620-M,LTCA Year Up Umbrella (Golf Style),130,130-acc
+105621-T,Gender Studies: Key Texts,100,100-soc
+105622-T,GMAT Study Guide,100,100-exa
+105623-A,Pentel Arts Oil Pastels (Set of 50),115,115-dra
+105624-M,LTCA Year Up Softshell Jacket (Black),130,130-clo
+105625-M,LTCA Year Up Water Bottle (Stainless Steel),130,130-acc
+105626-S,Dixon Oriole HB Pencils (Pack of 24),110,110-pen
+105627-S,"Five Star Wirebound Notebook (3 Subject, Wide Ruled)",110,110-not
+105628-M,LTCA Year Up Stadium Blanket,130,130-spo
+105629-B,A Thousand Splendid Suns,125,125-fic
+105630-B,Atlas of World Geography,125,125-ref
+105631-A,"Canvas Panels (Pack of 10, 8x10 inches)",115,115-mis
+105632-T,Community Health,100,100-mis
+105633-B,CrashCourse in U.S. History,125,125-stu
+105634-B,East of Eden,125,125-fic
+105635-T,Epidemiology: Basics and Applications,100,100-hea
+105636-S,Gorilla Glue Super Glue Gel,110,110-adh
+105637-M,LTCA Year Up Lightweight Windbreaker (Blue),130,130-clo
+105638-M,LTCA Year Up Mouse Pad (Black),130,130-off
+105639-M,"LTCA Year Up Wall Clock (Round, Black)",130,130-hom
+105640-S,"Ruled Index Cards (4x6, Assorted Colors, Pack of 100)",110,110-pap
+105641-A,Sculpey Polymer Clay Starter Kit (Set of 12 Colors),115,115-scu
+105642-B,The Chicago Manual of Style,125,125-ref
+105643-A,Tombow Fudenosuke Brush Pens (Hard and Soft Tip),115,115-cal
+105644-A,"Wire Armature for Sculpting (16 Gauge, 10 feet)",115,115-scu
+105645-B,The Body: A Guide for Occupants,125,125-non
+105646-M,LTCA Year Up Lightweight Windbreaker (Gray),130,130-clo
+105647-B,You Are a Badass,125,125-non
+105648-B,The Art of War,125,125-non
+105649-A,Sennelier Soft Pastels (Set of 24),115,115-dra
+105650-M,LTCA Year Up Pullover Hoodie (Gray),130,130-clo
+105651-S,Field Notes Original Kraft Memo Books (3-Pack),110,110-not
+105652-S,Desk Drawer Organizer Bins (Set of 6),110,110-org
+105653-M,LTCA Year Up Clipboard (Plastic),130,130-off
+105654-T,International Business,100,100-bus
+105655-M,LTCA Year Up Embroidered Baseball Cap (Navy Blue),130,130-hat
+105656-S,"Staples D-Ring Binder (3-inch, Red)",110,110-bin
+105657-T,Discrete Mathematics,100,100-mat
+105658-B,The Lord of the Rings,125,125-fic
+105659-A,Calligraphy Dip Pen with Nibs (Set of 6),115,115-cal
+105660-A,Melissa & Doug Easel Paper Rolls (2-Pack),115,115-kid
+105661-T,Materials Science and Engineering,100,100-eng
+105662-T,Signal Processing,100,100-eng
+105663-M,LTCA Year Up Water Bottle (Plastic BPA-Free),130,130-acc
+105664-A,Winsor & Newton Cotman Watercolor Brushes (Set of 5),115,115-pai
+105665-T,Operations Management,100,100-bus
+105666-A,Crayola Glitter Glue (Set of 9),115,115-kid
+105667-M,LTCA Year Up USB Flash Drive (32GB),130,130-tec
+105668-S,Pilot Precise V5 RT Rollerball Pens (Red),110,110-wri
+105669-M,LTCA Year Up Phone Case (Samsung Galaxy),130,130-tec
+105670-M,LTCA Year Up Flat-Brim Hat (Black),130,130-hat
+105671-B,Malibu Rising,125,125-fic
+105672-B,A Brief History of Time,125,125-non
+105673-T,Anatomy and Physiology,100,100-sci
+105674-T,Fundamentals of Thermodynamics,100,100-eng
+105675-B,Harry Potter and the Chamber of Secrets,125,125-fic
+105676-A,Masking Tape (Artist Grade),115,115-mis
+105677-A,Moleskine Art Sketchbook (8.5x11 inches),115,115-ske
+105678-A,Pencil and Marker Organizer Tray,115,115-eas
+105679-T,Physical Therapy Principles,100,100-hea
+105680-B,Princeton Review ACT Prep,125,125-stu
+105681-B,The Penguin Dictionary of Literary Terms,125,125-ref
+105682-A,Wax Carving Tools (Set of 10),115,115-scu
+105683-B,Wuthering Heights,125,125-fic
+105684-M,LTCA Year Up Drawstring Backpack (Black),130,130-acc
+105685-A,Art Supply Caddy (Rolling Cart),115,115-eas
+105686-A,Tabletop Easel (Adjustable),115,115-eas
+105687-S,"Badge Lanyards (Assorted Colors, Set of 5)",110,110-mis
+105688-S,Envelope Moistener with Adhesive,110,110-mis
+105689-S,Sticky Flags for Page Marking (Assorted Colors),110,110-pap
+105690-A,Golden Heavy Body Acrylic Paints (Set of 6),115,115-pai
+105691-M,LTCA Year Up Desk Clock,130,130-hom
+105692-S,Pentel Hi-Polymer Block Erasers (Pack of 3),110,110-pen
+105693-B,A Short History of Nearly Everything,125,125-non
+105694-S,"Bic Cristal Ballpoint Pens (Blue, Pack of 10)",110,110-wri
+105695-T,The Basics of Anthropology,100,100-soc
+105696-S,"Avery Address Labels (Clear, Pack of 500)",110,110-pap
+105697-A,Stainless Steel Clay Modeling Tools (Set of 11),115,115-scu
+105698-IT,HP Elite x2 G8,120,120-tab
+105699-IT,Lenovo ThinkPad 90W AC Adapter,120,120-cha
+105700-IT,Turtle Beach Stealth 700 Gen 2,120,120-hea
+105701-M,LTCA Year Up Throw Pillow (Black and White Logo),130,130-hom
+105702-T,Cloud Computing Basics,100,100-tec
+105703-B,How to Win Friends and Influence People,125,125-non
+105704-S,Sharpie Fine Point Permanent Markers (Black),110,110-wri
+105705-S,Cork Bulletin Board with Push Pins,110,110-org
+105706-T,Molecular Biology,100,100-sci
+105707-S,Day Designer Daily Planner (Undated),110,110-pla
+105708-T,Mental Health Nursing,100,100-hea
+105709-B,CliffsNotes Physics Review,125,125-stu
+105710-A,Daler-Rowney Gouache Paint Set (12 Tubes),115,115-pai
+105711-B,Daring Greatly,125,125-non
+105712-S,"Duck Brand Duct Tape (Black, 10 Yards)",110,110-adh
+105713-S,Elastic Book Bands (Set of 3),110,110-mis
+105714-T,Marketing Fundamentals,100,100-bus
+105715-A,Mod Podge Matte Finish (8 oz),115,110-adh
+105716-S,"Moleskine Weekly Planner (2024, Black)",110,110-pla
+105717-B,The Four Agreements,125,125-non
+105718-B,The Gifts of Imperfection,125,125-non
+105719-B,The Song of Achilles,125,125-fic
+105720-A,"Stretched Canvas (16x20 inches, Pack of 2)",115,115-mis
+105721-B,Strunk and Whites Elements of Style,125,125-ref
+105722-S,Mead Cambridge Business Notebook (Professional Design),110,110-not
+105723-S,Electric Desktop Pencil Sharpener (Heavy Duty),110,110-des
+105724-T,Ethics and Moral Reasoning,100,100-hum
+105725-M,LTCA Year Up Lanyard (Black),130,130-acc
+105726-S,Strathmore Bristol Paper Pad (11x17 inches),110,110-art
+105727-M,LTCA Year Up Quarter-Zip Sweatshirt (Maroon),130,130-clo
+105728-T,Phonetics and Phonology,100,100-lan
+105729-A,Fiskars 12-Inch Paper Trimmer,115,115-cut
+105730-B,A Storm of Swords,125,125-fic
+105731-B,Atomic Habits,125,125-non
+105732-B,Daisy Jones & The Six,125,125-fic
+105733-A,Generals Charcoal Pencils (Set of 6),115,115-dra
+105734-M,LTCA Year Up Fleece Jacket (Gray),130,130-clo
+105735-M,LTCA Year Up Performance Dri-Fit T-Shirt (Gray),130,130-clo
+105736-M,LTCA Year Up Trucker Hat (Blue Mesh),130,130-hat
+105737-T,Pathophysiology Essentials,100,100-hea
+105738-S,"Post-it Super Sticky Notes (Bright Colors, Pack of 15)",110,110-pap
+105739-A,Speedball Calligraphy Ink (Black),115,115-cal
+105740-T,Strategic Management,100,100-bus
+105741-B,The Immortal Life of Henrietta Lacks,125,125-non
+105742-B,The Seven Husbands of Evelyn Hugo,125,125-fic
+105743-T,GRE Prep 101,100,100-exa
+105744-T,Sociolinguistics,100,100-lan
+105745-B,A Song of Ice and Fire: A Game of Thrones,125,125-fic
+105746-B,Black Holes and Baby Universes,125,125-non
+105747-M,LTCA Year Up Laptop Sleeve (15-inch),130,130-acc
+105748-S,"Sakura Pigma Micron Pens (Black, Set of 6)",110,110-art
+105749-T,Statistical Inference,100,100-mat
+105750-IT,HyperJuice GaN 100W Charger,120,120-cha
+105751-M,LTCA Year Up Soccer Ball (Regulation Size),130,130-spo
+105752-T,Art History: The Renaissance to Modernism,100,100-hum
+105753-M,LTCA Year Up Trucker Hat (Black Mesh),130,130-hat
+105754-S,"Avery Index Dividers with Tabs (5-Tab, Multicolor)",110,110-bin
+105755-A,Copic Sketch Markers (Set of 24),115,115-dra
+105756-T,Introduction to Philosophy,100,100-hum
+105757-T,Chinese Characters Made Easy,100,100-lan
+105758-T,Robotics: Concepts and Control,100,100-eng
+105759-T,Criminology: A Contemporary Introduction,100,100-soc
+105760-S,Fellowes Mesh Desk Organizer,110,110-des
+105761-T,Introduction to Film Studies,100,100-hum
+105762-B,Kaplan GRE Prep 2024,125,125-stu
+105763-S,Letter Opener (Stainless Steel),110,110-mis
+105764-B,SAT Math Level 2 Study Guide,125,125-stu
+105765-B,Verity,125,125-fic
+105766-T,Introduction to Mechanical Engineering,100,100-eng
+105767-S,Page Magnifier Sheet,110,110-mis
+105768-B,The Hunger Games,125,125-fic
+105769-B,Pride and Prejudice,125,125-fic
+105770-T,Theater Arts: A Practical Guide,100,100-hum
+105771-B,Mockingjay,125,125-fic
+105772-T,Advanced Calculus,100,100-mat
+105773-T,Organic Chemistry II,100,100-sci
+105774-M,"LTCA Year Up Coffee Mug (Ceramic, White)",130,130-acc
+105775-T,World History: Ancient to Modern,100,100-hum
+105776-A,Creative Mark Rhapsody Kolinsky Brushes (Set of 3),115,115-pai
+105777-A,Canson XL Mixed Media Pad (11x14 inches),115,115-ske
+105778-A,Daniel Smith Extra Fine Watercolors (6-Tube Set),115,115-pai
+105779-S,Paper Mate Pink Pearl Erasers (Pack of 6),110,110-pen
+105780-B,Atlas of Human Anatomy,125,125-ref
+105781-B,CliffsNotes Chemistry Quick Review,125,125-stu
+105782-S,Dry Erase Wall Calendar (Monthly Layout),110,110-pla
+105783-B,Life of Pi,125,125-fic
+105784-B,The Bluebook: A Uniform System of Citation,125,125-ref
+105785-B,The Merriam-Webster Dictionary,125,125-ref
+105786-A,Winsor & Newton Professional Watercolor Set (12 Tubes),115,115-pai
+105787-A,Arteza Acrylic Paint Set (60 Colors),115,115-pai
+105788-A,"Faber-Castell Pitt Artist Pens (Set of 12, Black)",115,115-dra
+105789-A,Chavant NSP Soft Sculpting Clay (Green),115,115-scu
+105790-S,"Plastic Report Covers (Clear Front, Pack of 10)",110,110-bin
+105791-A,Wooden Pottery Tools Set (Set of 8),115,115-scu
+105792-S,Rocketbook Fusion Smart Reusable Notebook,110,110-not
+105793-B,Catching Fire,125,125-fic
+105794-S,"Five Star Wirebound Notebook (1 Subject, College Ruled)",110,110-not
+105795-S,"Rubber Bands (Assorted Sizes, Pack of 100)",110,110-org
+105796-B,Sapiens: A Brief History of Humankind,125,125-non
+105797-B,The Norton Anthology of English Literature,125,125-ref
+105798-B,In Defense of Food,125,125-non
+105799-S,Faber-Castell Polychromos Colored Pencils (Set of 24),110,110-pen
+105800-A,"Studio Floor Easel (H-Frame, Wood)",115,115-eas
+105801-A,"Foam Brushes (Assorted Sizes, Pack of 20)",115,115-pai
+105802-A,"DAS Modelling Clay (2.2 lbs, Terra Cotta)",115,115-scu
+105803-IT,Sony WF-1000XM4,120,120-hea
+105804-IT,Amazon Fire HD 10 Plus,120,120-tab
+105805-T,French Grammar and Composition,100,100-lan
+105806-S,3M Transparent Tape (Pack of 12),110,110-adh
+105807-B,CPA Exam Review,125,125-stu
+105808-M,LTCA Year Up Folding Stadium Seat,130,130-spo
+105809-S,Pentel EnerGel Deluxe Retractable Pens (Blue),110,110-wri
+105810-A,X-Acto Knife Set with Extra Blades,115,115-cut
+105811-A,Sta-Wet Palette for Acrylic Paints,115,115-pal
+105812-B,Big Little Lies,125,125-fic
+105813-A,Kneaded Erasers (Set of 3),115,115-mis
+105814-A,Glass Paint Mixing Palette (12x16 inches),115,115-pal
+105815-IT,Xiaomi Pad 5 Pro,120,120-tab
+105816-A,Spray Fixative for Drawings (11 oz),115,115-mis
+105817-B,Born a Crime,125,125-non
+105818-B,Cambridge Advanced Learners Dictionary,125,125-ref
+105819-B,CliffsNotes Algebra I,125,125-stu
+105820-B,MCAT Official Prep Guide,125,125-stu
+105821-S,"Paper Clips (Silver, Pack of 100)",110,110-org
+105822-B,Cosmos,125,125-non
+105823-M,LTCA Year Up Patch (Sew-On),130,130-mem
+105824-B,"Thinking, Fast and Slow",125,125-non
+105825-S,Staedtler White Vinyl Erasers (Pack of 4),110,110-pen
+105826-IT,Google Pixel USB-C 30W Power Adapter,120,120-cha
+105827-A,"Fan Brush Set (Set of 6, Synthetic Hair)",115,115-pai
+105828-B,The Catcher in the Rye,125,125-fic
+105829-T,Numerical Methods,100,100-mat
+105830-B,Outliers,125,125-non
+105831-B,The Power of Habit,125,125-non
+105832-S,"HP Premium32 Printer Paper (32 lb, 500 Sheets)",110,110-pap
+105833-B,GMAT Quantitative Practice Tests,125,125-stu
+105834-A,Self-Healing Cutting Mat (18x24 inches),115,115-cut
+105835-B,Wild,125,125-non
+105836-A,"Sakura Pigma Micron Pens (Set of 8, Black)",115,115-dra
+105837-S,"Laminate File Jackets (Assorted Colors, Pack of 12)",110,110-bin
+105838-T,Introduction to Electrical Engineering,100,100-eng
+105839-A,"Da Vinci Maestro Series 10 Brushes (Round, Set of 3)",115,115-pai
+105840-A,Derwent Inktense Pencils (Set of 36),115,115-dra
+105841-S,"Magnetic Clips (Assorted Colors, Set of 12)",110,110-org
+105842-B,MLA Handbook (9th Edition),125,125-ref
+105843-A,Disposable Paper Palette Pad (30 Sheets),115,115-pal
+105844-B,DK Eyewitness Travel Guides: Europe,125,125-ref
+105845-A,Masterson Artist Palette Seal,115,115-pal
+105846-B,Spark Joy,125,125-non
+105847-B,The Blue Zones,125,125-non
+105848-M,LTCA Year Up Canvas Tote Bag,130,130-acc
+105849-B,APA Manual of Style (7th Edition),125,125-ref
+105850-B,Rogets Thesaurus,125,125-ref
+105851-B,The Road,125,125-fic
+105852-S,Elmers Washable School Glue (4 oz),110,110-adh
+105853-A,Double-Sided Adhesive Tape (Roll),115,110-adh
+105854-B,"Guns, Germs, and Steel",125,125-non
+105855-A,Staedtler Mars Lumograph Graphite Pencils (Set of 12),115,115-dra
+105856-B,Brave New World,125,125-fic
+105857-B,National Geographic Field Guide to Birds of North America,125,125-ref
+105858-B,Animal Farm,125,125-fic
+105859-B,Everything is Fcked*,125,125-non
+105860-B,How Not to Die,125,125-non
+105861-T,Spanish for Beginners,100,100-lan
+105862-M,LTCA Year Up Keychain (Rubberized),130,130-acc
+105863-M,LTCA Year Up Insulated Lunch Bag,130,130-acc
+105864-M,LTCA Year Up Keychain (Metal),130,130-acc
+105865-B,The Handmaids Tale,125,125-fic
+105866-B,Jane Eyre,125,125-fic
+105867-B,On Writing,125,125-non
+105868-B,The Writers Guide to Grammar,125,125-ref
+105869-B,Educated,125,125-non
+105870-B,Grays Anatomy for Students,125,125-ref
+105871-B,Oxford English Dictionary,125,125-ref
+105872-T,Italian in 30 Days,100,100-lan
+105873-T,German Language Essentials,100,100-lan
+105874-B,Cant Hurt Me,125,125-non
+105875-T,Critical Thinking and Logic,100,100-mis
+105876-T,Conflict Resolution,100,100-mis
+105877-B,The Secret,125,125-non
+105878-S,Heavy-Duty Hole Punch (3 Hole),110,110-mis
+105879-B,Digital Minimalism,125,125-non
+105880-B,The 4-Hour Workweek,125,125-non
+105881-B,Homo Deus: A Brief History of Tomorrow,125,125-non
+105882-B,A Clash of Kings,125,125-fic
+105883-B,AP Calculus AB & BC Prep,125,125-stu
+105884-B,Circe,125,125-fic
+105885-B,Collapse,125,125-non
+105886-T,Astronomy Today,100,100-sci
+105887-T,Environmental Science,100,100-sci
+105888-T,General Chemistry: Concepts and Applications,100,100-sci
+105889-B,Your Money or Your Life,125,125-non
+105890-T,Urban Studies and Planning,100,100-soc
+105891-T,Biology: Concepts and Connections,100,100-sci
+105892-B,Seven Habits of Highly Effective People,125,125-non
+105893-M,LTCA Year Up Cooler Bag (Soft-Sided),130,130-spo
+105894-M,LTCA Year Up ID Holder with Lanyard,130,130-acc
+105895-T,Game Development Essentials,100,100-tec
+105896-T,Artificial Intelligence: Principles and Practice,100,100-tec
+105897-T,Adolescent Psychology,100,100-soc
+105898-B,LSAT Trainer,125,125-stu
+105899-T,Introduction to Cybersecurity,100,100-tec
+105900-T,Principles of Biochemistry,100,100-sci
+105901-T,Educational Psychology,100,100-mis
+105902-T,Differential Equations,100,100-mat
+105903-T,Calculus II,100,100-mat
+105904-T,Ethics in Research,100,100-mis
+105905-T,Environmental Policy and Law,100,100-mis
+105906-S,"File Labels (White, Self-Adhesive, Pack of 50)",110,110-org
+105907-S,X-Acto KS Manual Pencil Sharpener,110,110-des
+105908-T,Software Engineering Concepts,100,100-tec
+105909-S,Cable Management Clips (Set of 20),110,110-org
+105910-T,Principles of Sociology,100,100-soc
+105911-T,Machine Learning Basics,100,100-tec
+105912-T,Networking Fundamentals,100,100-tec
+105913-T,Introduction to Databases,100,100-tec
+105914-IT,SanDisk Extreme Portable SSD (1TB),120,120-ext
+105915-M,LTCA Year Up Spiral Notebook (Black),130,130-off
+105916-M,LTCA Year Up Sunglasses (Black),130,130-acc

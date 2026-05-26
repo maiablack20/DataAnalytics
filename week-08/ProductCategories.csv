@@ -1,0 +1,53 @@
+CategoryID,Category,SubcategoryID,Subcategory
+120,Technology & Accessories,120-tab,Tablets
+120,Technology & Accessories,120-cal,Calculators
+120,Technology & Accessories,120-sof,Software Download
+120,Technology & Accessories,120-hea,Headphones
+120,Technology & Accessories,120-ext,External Accessories
+120,Technology & Accessories,120-cha,Chargers and Power Adapters
+120,Technology & Accessories,120-lap,Laptops
+130,Apparel and Merchandise,130-off,Office and Study Supplies
+100,Textbooks,100-bus,Business & Economics
+130,Apparel and Merchandise,130-clo,"Clothing (T-Shirts, Hoodies, and Jackets)"
+130,Apparel and Merchandise,130-tec,Technology Accessories
+115,Art Supplies,115-ske,Sketchbooks and Paper
+125,Books (General),125-fic,Fiction
+110,Stationery and Supplies,110-art,Art Supplies
+100,Textbooks,100-mis,Miscellaneous Academic Topics
+115,Art Supplies,115-kid,Kids Art Supplies
+100,Textbooks,100-eng,Engineering & Technology
+110,Stationery and Supplies,110-bin,Binders and Folders
+100,Textbooks,100-hea,Health Sciences
+100,Textbooks,100-tec,Technology and Computing
+110,Stationery and Supplies,110-wri,Writing Instruments
+100,Textbooks,100-soc,Social Sciences
+110,Stationery and Supplies,110-des,Desk Accessories
+100,Textbooks,100-lan,Language and Linguistics
+130,Apparel and Merchandise,130-hom,Home and Decor
+115,Art Supplies,115-mis,Miscellaneous Art Supplies
+100,Textbooks,100-hum,Humanities
+130,Apparel and Merchandise,130-hat,Hats and Caps
+100,Textbooks,100-exa,Exam Prep and Study Guides
+130,Apparel and Merchandise,130-mem,Memorabilia and Collectibles
+115,Art Supplies,115-pai,Paint Brushes
+130,Apparel and Merchandise,130-spo,Sports and Outdoor Gear
+115,Art Supplies,115-scu,Sculpting Supplies
+125,Books (General),125-stu,Study Guides
+110,Stationery and Supplies,110-mis,Miscellaneous Supplies
+115,Art Supplies,115-dra,Drawing and Sketching Tools
+125,Books (General),125-non,Non-Fiction
+110,Stationery and Supplies,110-pla,Planners and Calendars
+115,Art Supplies,115-pai,Paints
+115,Art Supplies,115-cal,Calligraphy and Lettering
+110,Stationery and Supplies,110-not,Notebooks and Notepads
+100,Textbooks,100-mat,Math and Statistics
+110,Stationery and Supplies,110-adh,Adhesives and Tapes
+110,Stationery and Supplies,110-org,Organization Supplies
+100,Textbooks,100-sci,Science
+130,Apparel and Merchandise,130-acc,Accessories
+115,Art Supplies,115-cut,Cutting and Measuring Tools
+110,Stationery and Supplies,110-pen,Pencils and Erasers
+110,Stationery and Supplies,110-pap,Paper Products
+125,Books (General),125-ref,Reference Materials
+115,Art Supplies,115-pal,Palettes and Mixing Tools
+115,Art Supplies,115-eas,Easels and Storage

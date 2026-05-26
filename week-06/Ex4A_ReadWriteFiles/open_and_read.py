@@ -39,3 +39,4 @@ print(f" Next 100 characters, as list by line, rounded up to complete lines: {z}
 
 # 15a.) When I use .read(50), I get the first 50 words, but one of the statements is cut off.
 
+# 15c.) When I use readines(100), I get the first 100 lines, but nothing more than that. 
