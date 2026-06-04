@@ -1,0 +1,15 @@
+1.) What does this report seem to be about? 
+	
+	a.) This report is about the sales performance of the team, which lists the names of the 	people 	on the team and the Revenue they've garnered by month as well, it shows the total 	revenue by region, total revenue by state within the regions, and Revenue TY and Revenue Var 	by month.
+ 
+2.) Look at the labels for each visualization. What do you think “Revenue Var %” means? How about “RevenueTY”? 
+
+	a.) Revenue Variance Percentage, or "Revenue Var %", is the measure of actual sales and 	expected sales and "Revenue TY" means the total yearly revenue. 
+
+3.) What happens if you click on Alaska on the map visualization? 
+
+	a.) What happens when I click on Alaska on the map is that the data for the sales for the 	state and it's region becomes isolated and it shows me their chart data for Alaska and Alaska 	only. 
+
+4.) What happens if you click on one of the checkboxes under Name on the left?
+
+	a.) What happens when I click on one of the names 
