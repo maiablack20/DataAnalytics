@@ -1,0 +1,29 @@
+Part A - Data Cleaning Decicions:
+
+  1. The most unexpected data quality that I found was when I was attempting merge the FitZone_Products_Reference table to the products table, the In-Store Transactions table, and the Online Orders table, I found that I was having issues with obtaining the correct values needed, which led to some frustration on my end when I was a little bit further along in the project with everything because I was trying to wrap my head around why the data didn't look the way I needed it to. I ended up figuring out that I needed to trim and clean the values before obtaining the values I needed. 
+
+  2. My thought process for getting rid of, or filtering out, the negative values is that those represent items that have been bought by our customers and then returned to the store within the appropriate time frame. The reason in which I came to this conclusion is because of my own background in retail, which informed me that when you see a negative value within the system that means the customer was not satisfied with the product that was purchased and they decided to return it. This decision might impact the visuals because it won't show the full picture of the data, but it did not make the most sense to me at the time to keep negative values that represented returns/refunds since those items are back with the company. 
+
+  3. For In-Store Sales and Online-Sales, the only challenge I faced with those was in a later section when I needed to combine their data for one pie/donut chart, but overall there weren't any issues with them at all. 
+
+  4. This differed because I had to not only have the data more spaced out with the delimiter, but I also had to really stop and think when the assignment tasked me with getting rid of the first four rows. I had to be more strategic with that because I could have lost the names of the columns if I did not analyze the data properly. 
+
+Part B - Modeling Decisions: 
+
+  5. My final data model overall only has two tables, which is what I decided to create per the instructions and so that it does not seem like an information overload for anyone who wants to assess the data themselves. 
+
+  6. It's better to write it out because if you just copy and paste one, then you're not going to learn from trial and error. It is best to write it out and see what errors Power BI provides you when you make a mistake rather than just copying and pasting a formula you were provided. Not to mention that a copy and pasted formula might have some errors that can effect your data as well. 
+
+  7. Marking a table as a "date table" keeps it more distinguished from others and rather than it being lumped together with the other tables as just "numbers" you can have data that's different in nature that also assists with your data analysis as well. 
+
+Part C - Insights From The Data: 
+
+  8. The product category with the highest amount of revenue over the span of two years is Electronics and Technology. This does not surprise me with it being the highest selling product category because even one or two products from the Electronics and Technology category can outperform the other product categories due to how they're priced. Electronics and Technology will always do well, even in the world of Fitness, because we are in an age where technology is key. 
+
+  9. Sales for the company are lower in the summer months because the demand for workout equipment becomes lower when it becomes warmer outside due to the fact that consumers will have more options for where they want to workout, which means that they are taking walks in the park, going on bike rides, and performing many other outdoor fitness activites. So the demand for fitness equipment and apparel becomes lower, not to mention that the summer months are meant more for vacation so not many people are going to buy products based around their fitness needs. 
+
+  10. According to my data, that would be Ohio with the highest in-store revenue with Illinois coming at a strong second. As for the state with the highest Ship-to Revenue that would be Minnesota. Two different states have the highest revenue so far and they are both very different from each other. 
+
+  11. The single most important insight I would highlight would be to boost our Electronics and Technology products to our consumers, even if it's something as minor as a timer, and to promote that amongst the other states along with the online store as well. A great marketing campaign that targets different things that people are interested in for that same product category will garner more revenue, especially if the company collaborates with a well known and well liked brand, like the PowerPuff Girls, and basing items on the collaboration. 
+
+  12. A question the data raises is what does the more recent data look like and what does previous sales data look like as well. I would like to see how the data differs if I am able to obtain the previous years sales data and to see how much has changed over time rather than using data for just two years. 
