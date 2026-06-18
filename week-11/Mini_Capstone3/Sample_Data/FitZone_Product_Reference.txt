@@ -1,0 +1,60 @@
+FitZone Midwest Region — Product Reference List
+Source: Merchandising & Brand Partnerships Team | Updated: January 2025
+Format: Product ID | Product Name | Category | Brand | Key Feature | Top Endorser | Target Audience
+==============================================================================================================
+
+SG-001 | Resistance Band Set | Sporting Goods | ProFlex | 5 resistance levels, latex-free | Marcus Cole (Olympic sprinter) | General fitness, rehab
+SG-002 | Adjustable Dumbbells | Sporting Goods | IronEdge | 5–52.5 lb range, quick-dial adjust | Sierra Watts (powerlifter) | Home gym enthusiasts
+SG-003 | Yoga Mat Pro | Sporting Goods | CorePower | 6mm thickness, non-slip grip, eco TPE | Layla Moreno (yoga instructor) | Yoga & stretching
+SG-004 | Jump Rope Steel Cable | Sporting Goods | ProFlex | Speed bearings, adjustable length | Devon Park (CrossFit athlete) | HIIT, cardio
+SG-005 | Pull-Up Bar | Sporting Goods | IronEdge | Doorframe mount, 300 lb capacity | Sierra Watts (powerlifter) | Upper body strength
+SG-006 | Kettlebell 20lb | Sporting Goods | CorePower | Cast iron, powder coat finish | Devon Park (CrossFit athlete) | Functional training
+SG-007 | Medicine Ball 10lb | Sporting Goods | ProFlex | Textured grip, dual-layer shell | Marcus Cole (Olympic sprinter) | Core & explosive power
+AG-001 | Performance Tee - Unisex | Apparel & Gear | ActivePeak | Moisture-wicking, UPF 30+ | Tanya Osei (marathon runner) | Running, gym
+AG-002 | Compression Shorts | Apparel & Gear | MotionFit | 4-way stretch, anti-chafe lining | Devon Park (CrossFit athlete) | All-sport
+AG-003 | Athletic Hoodie | Apparel & Gear | StrideWear | Brushed fleece interior, kangaroo pocket | Layla Moreno (yoga instructor) | Casual & warm-up
+AG-004 | Running Jacket | Apparel & Gear | ActivePeak | Wind-resistant, reflective trim | Tanya Osei (marathon runner) | Outdoor running
+AG-005 | Sports Bra | Apparel & Gear | MotionFit | Medium support, breathable mesh | Layla Moreno (yoga instructor) | Yoga, HIIT
+AG-006 | Training Gloves | Apparel & Gear | StrideWear | Padded palm, wrist wrap | Sierra Watts (powerlifter) | Weightlifting
+AG-007 | Gym Bag Deluxe | Apparel & Gear | ActivePeak | 40L, wet/dry compartment, shoe pocket | Marcus Cole (Olympic sprinter) | All athletes
+NS-001 | Whey Protein 5lb | Nutrition & Supplements | NutriForce | 25g protein per serving, low sugar | Sierra Watts (powerlifter) | Muscle building
+NS-002 | Pre-Workout Formula | Nutrition & Supplements | PeakFuel | 200mg caffeine, beta-alanine, citrulline | Devon Park (CrossFit athlete) | High-intensity training
+NS-003 | Creatine Monohydrate | Nutrition & Supplements | CleanLean | Micronized, unflavored, 300 servings | Sierra Watts (powerlifter) | Strength & power
+NS-004 | BCAA Powder | Nutrition & Supplements | NutriForce | 2:1:1 ratio, 10g per serving | Tanya Osei (marathon runner) | Endurance & recovery
+NS-005 | Multivitamin Pack | Nutrition & Supplements | CleanLean | 30 daily packs, 20 nutrients | Layla Moreno (yoga instructor) | General wellness
+NS-006 | Omega-3 Fish Oil | Nutrition & Supplements | PeakFuel | 2000mg EPA+DHA, enteric coated | Tanya Osei (marathon runner) | Heart & joint health
+NS-007 | Electrolyte Mix | Nutrition & Supplements | CleanLean | Sugar-free, 6 electrolytes, tropical flavor | Marcus Cole (Olympic sprinter) | Hydration & endurance
+ET-001 | Wireless Earbuds Sport | Electronics & Tech | TechPulse | IPX5 waterproof, 8hr battery, ENC mic | Devon Park (CrossFit athlete) | Gym & outdoor
+ET-002 | Fitness Tracker Pro | Electronics & Tech | VitalTrack | Heart rate, sleep, GPS, 7-day battery | Tanya Osei (marathon runner) | Serious athletes
+ET-003 | Smart Water Bottle | Electronics & Tech | SyncGear | Tracks hydration, LED reminders, 24oz | Layla Moreno (yoga instructor) | Health-conscious users
+ET-004 | Portable Bluetooth Speaker | Electronics & Tech | TechPulse | IPX7, 360° sound, 12hr playtime | Marcus Cole (Olympic sprinter) | Gym & outdoor
+ET-005 | GPS Running Watch | Electronics & Tech | VitalTrack | Multi-sport, route mapping, 20hr GPS | Tanya Osei (marathon runner) | Runners & triathletes
+ET-006 | Heart Rate Monitor | Electronics & Tech | SyncGear | Chest strap, ANT+/Bluetooth dual | Devon Park (CrossFit athlete) | Precision training
+ET-007 | USB-C Charging Hub | Electronics & Tech | TechPulse | 6-port, 100W PD, compact design | — | Tech-heavy users
+BM-001 | Strength Training Anatomy | Books & Media | PeakPress | 4th edition, full-color illustrations | Sierra Watts (powerlifter) | Coaches & lifters
+BM-002 | The Athlete's Diet | Books & Media | AthleteBooks | Evidence-based nutrition for performance | Tanya Osei (marathon runner) | All athletes
+BM-003 | Running Science Guide | Books & Media | CoreReads | Biomechanics, training plans, injury prevention | Tanya Osei (marathon runner) | Runners of all levels
+BM-004 | Mindset & Performance | Books & Media | PeakPress | Mental toughness framework, 12-week program | Devon Park (CrossFit athlete) | Competitive athletes
+BM-005 | Yoga Foundations Handbook | Books & Media | CoreReads | 65 poses, breathwork, flow sequences | Layla Moreno (yoga instructor) | Beginners to advanced
+BM-006 | Nutrition Decoded | Books & Media | AthleteBooks | Debunks myths, science-backed guidance | — | General audience
+BM-007 | Sports Psychology Today | Books & Media | PeakPress | Case studies, focus & confidence tools | Marcus Cole (Olympic sprinter) | Athletes & coaches
+RW-001 | Foam Roller High-Density | Recovery & Wellness | RecoverX | EVA foam, 36 inch, 500 lb limit | Devon Park (CrossFit athlete) | Post-workout recovery
+RW-002 | Ice Therapy Wrap | Recovery & Wellness | ZenSport | Reusable gel pack, knee/shoulder/back | — | Injury management
+RW-003 | Compression Sleeve | Recovery & Wellness | FlexEase | Graduated compression, moisture-wicking | Tanya Osei (marathon runner) | Runners, swelling
+RW-004 | Massage Gun Lite | Recovery & Wellness | RecoverX | 6 heads, 6 speeds, 3hr battery | Sierra Watts (powerlifter) | Muscle soreness
+RW-005 | Epsom Salt Bath Soak | Recovery & Wellness | ZenSport | Pure magnesium sulfate, lavender scent | Layla Moreno (yoga instructor) | Full-body recovery
+RW-006 | Sleep Aid Supplement | Recovery & Wellness | FlexEase | Melatonin + L-theanine + magnesium | — | Sleep quality
+RW-007 | Stretching Strap Set | Recovery & Wellness | RecoverX | 10-loop design, D-ring buckle, 8ft | Layla Moreno (yoga instructor) | Flexibility
+FW-001 | Cross-Training Shoes | Footwear | StridePro | Lateral support, flat heel, wide toe box | Devon Park (CrossFit athlete) | CrossFit, HIIT
+FW-002 | Running Shoes Elite | Footwear | GroundUp | Carbon fiber plate, responsive foam | Tanya Osei (marathon runner) | Road racing
+FW-003 | Weightlifting Shoes | Footwear | ApexStep | Raised heel 0.75in, Velcro strap, rigid sole | Sierra Watts (powerlifter) | Olympic lifting
+FW-004 | Recovery Slides | Footwear | GroundUp | Contoured arch support, EVA sole | — | Post-workout
+FW-005 | Trail Running Shoes | Footwear | StridePro | Rock plate, aggressive lug sole, waterproof | Marcus Cole (Olympic sprinter) | Trail & outdoor
+FW-006 | Basketball Sneakers | Footwear | ApexStep | High ankle support, court grip outsole | — | Court sports
+FW-007 | No-Show Athletic Socks 3pk | Footwear | GroundUp | Cushioned arch, moisture-wicking, unisex | — | All athletics
+
+==============================================================================================================
+END OF PRODUCT REFERENCE LIST
+Total products listed: 49
+Note: This file is pipe-delimited. Import and split on '|' to use in your data model.
+Join to sales data using the Product ID column.
